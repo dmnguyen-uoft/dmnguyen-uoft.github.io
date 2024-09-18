@@ -1,17 +1,10 @@
 ---
 # Display name
-title: 吳健雄
-
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+title: Duc Minh Nguyen
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
-
-# Status emoji
-status:
-  icon: ☕️
+first_name: Duc
+last_name: Nguyen
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,11 +13,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Economics PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: University of Toronto
     url: https://openai.com/
 
 # Social network links
@@ -47,9 +40,9 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Macroeconomics
+  - Growth
+  - Development
 
 education:
   - area: PhD Artificial Intelligence
@@ -181,6 +174,12 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+## Biography
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Economics at the University of Toronto. I will be on the 2024-2025 job market.
+
+My fields are macroeconomics and economic development. My primary research interests focus on understanding factors driving cross-country income differences through the lens of structural transformation and resource misallocation.
+
+My job market paper studies the impacts of openness to foreign firms on resource allocation, structural transformation and aggregate productivity through the context of FDI openness reforms in Vietnam.
+
+You can find my CV here.
